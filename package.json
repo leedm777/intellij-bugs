@@ -1,0 +1,17 @@
+{
+    "name": "usage-api-sails",
+    "private": true,
+    "version": "0.0.0",
+    "description": "a Sails application",
+    "dependencies": {
+        "q": "1.0.0"
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "main": "app.js",
+    "repository": "",
+    "author": "",
+    "license": ""
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="JRUBY" />
+    <type id="Python" />
+    <type id="sass-stdlib" />
+  </component>
+  <component name="IdProvider" IDEtalkID="16E54A1DA9BA95B1601CE38F8B816750" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
